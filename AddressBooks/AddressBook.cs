@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AddressBooks
+namespace AddressBookSystem
 {
 
     class AddressBook
@@ -12,7 +12,6 @@ namespace AddressBooks
         public static List<PersonsDetails> addressBook = new List<PersonsDetails>();
 
         public static void AddContact()
-        
         {
             Console.WriteLine(" You have to enter your details here. \n");
             int contactsNum = 1;

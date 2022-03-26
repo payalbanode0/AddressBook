@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace AddressBooks
+namespace AddressBookSystem
 {
     public class Program
     {
